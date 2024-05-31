@@ -1,1 +1,1 @@
-I have contributed solely in creating the example project and testing out the git and how it works
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
